@@ -141,4 +141,4 @@ Aqui, estamos comparando **todos os pares possíveis**, o que é lento (`O(n²)`
 Nosso código evita isso armazenando números no dicionário (`O(1)`) e resolvendo o problema em apenas uma passagem (`O(n)`).  
 
 ---
-
+teset
